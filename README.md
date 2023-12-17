@@ -1,0 +1,1 @@
+# Demonstração básica de como subir um projeto React para o S3
